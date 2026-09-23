@@ -1,0 +1,17 @@
+class Solution {
+public:
+    string convert(string s, int numRows) {
+        if (numRows == 1) return s;
+        vector<string> rows(numRows);
+        int cur = 0, step = 1;
+        for (char c : s) {
+            rows[cur] += c;
+            if (cur == 0) step = 1;
+            else if (cur == numRows - 1) step = -1;
+            cur += step;
+        }
+        string res;
+        for (auto& r : rows) res += r;
+        return res;
+    }
+};
