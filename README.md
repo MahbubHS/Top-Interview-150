@@ -1,6 +1,6 @@
 # Top Interview 150 — Solutions & Explanations
 
-Progress: **24 / 150** problems complete.
+Progress: **47 / 150** problems complete.
 
 Source list: https://leetcode.com/studyplan/top-interview-150/
 
@@ -42,44 +42,44 @@ Each completed problem has its own folder containing `Solution.py`, `Solution.cp
 
 | Status | Problem | Difficulty | LeetCode | Solution Folder | Explanation | Description |
 |---|---|---|---|---|---|---|
-| ⏳ | Valid Palindrome | Easy | [Link](https://leetcode.com/problems/valid-palindrome/) | — | — | Check if a string is a palindrome ignoring non-alphanumeric characters. |
-| ⏳ | Is Subsequence | Easy | [Link](https://leetcode.com/problems/is-subsequence/) | — | — | Check if one string is a subsequence of another. |
-| ⏳ | Two Sum II - Input Array Is Sorted | Medium | [Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | — | — | Find two numbers summing to a target in a sorted array. |
-| ⏳ | Container With Most Water | Medium | [Link](https://leetcode.com/problems/container-with-most-water/) | — | — | Find two lines that form the container holding the most water. |
-| ⏳ | 3Sum | Medium | [Link](https://leetcode.com/problems/3sum/) | — | — | Find all unique triplets that sum to zero. |
+| ✅ | Valid Palindrome | Easy | [Link](https://leetcode.com/problems/valid-palindrome/) | [Code](./02-two-pointers/01-valid-palindrome/) | [Explanation](./02-two-pointers/01-valid-palindrome/README.md) | Check if a string is a palindrome ignoring non-alphanumeric characters. |
+| ✅ | Is Subsequence | Easy | [Link](https://leetcode.com/problems/is-subsequence/) | [Code](./02-two-pointers/02-is-subsequence/) | [Explanation](./02-two-pointers/02-is-subsequence/README.md) | Check if one string is a subsequence of another. |
+| ✅ | Two Sum II - Input Array Is Sorted | Medium | [Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Code](./02-two-pointers/03-two-sum-ii-input-array-is-sorted/) | [Explanation](./02-two-pointers/03-two-sum-ii-input-array-is-sorted/README.md) | Find two numbers summing to a target in a sorted array. |
+| ✅ | Container With Most Water | Medium | [Link](https://leetcode.com/problems/container-with-most-water/) | [Code](./02-two-pointers/04-container-with-most-water/) | [Explanation](./02-two-pointers/04-container-with-most-water/README.md) | Find two lines that form the container holding the most water. |
+| ✅ | 3Sum | Medium | [Link](https://leetcode.com/problems/3sum/) | [Code](./02-two-pointers/05-3sum/) | [Explanation](./02-two-pointers/05-3sum/README.md) | Find all unique triplets that sum to zero. |
 
 ## Sliding Window
 
 | Status | Problem | Difficulty | LeetCode | Solution Folder | Explanation | Description |
 |---|---|---|---|---|---|---|
-| ⏳ | Minimum Size Subarray Sum | Medium | [Link](https://leetcode.com/problems/minimum-size-subarray-sum/) | — | — | Find the shortest contiguous subarray with sum at least a target. |
-| ⏳ | Longest Substring Without Repeating Characters | Medium | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | — | — | Find the longest substring with no repeated characters. |
-| ⏳ | Substring with Concatenation of All Words | Hard | [Link](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | — | — | Find start indices where a concatenation of all given words occurs. |
-| ⏳ | Minimum Window Substring | Hard | [Link](https://leetcode.com/problems/minimum-window-substring/) | — | — | Find the smallest window containing all characters of a target string. |
+| ✅ | Minimum Size Subarray Sum | Medium | [Link](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Code](./03-sliding-window/01-minimum-size-subarray-sum/) | [Explanation](./03-sliding-window/01-minimum-size-subarray-sum/README.md) | Find the shortest contiguous subarray with sum at least a target. |
+| ✅ | Longest Substring Without Repeating Characters | Medium | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Code](./03-sliding-window/02-longest-substring-without-repeating-characters/) | [Explanation](./03-sliding-window/02-longest-substring-without-repeating-characters/README.md) | Find the longest substring with no repeated characters. |
+| ✅ | Substring with Concatenation of All Words | Hard | [Link](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Code](./03-sliding-window/03-substring-with-concatenation-of-all-words/) | [Explanation](./03-sliding-window/03-substring-with-concatenation-of-all-words/README.md) | Find start indices where a concatenation of all given words occurs. |
+| ✅ | Minimum Window Substring | Hard | [Link](https://leetcode.com/problems/minimum-window-substring/) | [Code](./03-sliding-window/04-minimum-window-substring/) | [Explanation](./03-sliding-window/04-minimum-window-substring/README.md) | Find the smallest window containing all characters of a target string. |
 
 ## Matrix
 
 | Status | Problem | Difficulty | LeetCode | Solution Folder | Explanation | Description |
 |---|---|---|---|---|---|---|
-| ⏳ | Valid Sudoku | Medium | [Link](https://leetcode.com/problems/valid-sudoku/) | — | — | Validate a 9x9 Sudoku board's rows, columns, and boxes. |
-| ⏳ | Spiral Matrix | Medium | [Link](https://leetcode.com/problems/spiral-matrix/) | — | — | Return all matrix elements in spiral order. |
-| ⏳ | Rotate Image | Medium | [Link](https://leetcode.com/problems/rotate-image/) | — | — | Rotate an n x n matrix 90 degrees in place. |
-| ⏳ | Set Matrix Zeroes | Medium | [Link](https://leetcode.com/problems/set-matrix-zeroes/) | — | — | Zero out entire rows/columns for any zero found, in place. |
-| ⏳ | Game of Life | Medium | [Link](https://leetcode.com/problems/game-of-life/) | — | — | Simulate one step of Conway's Game of Life in place. |
+| ✅ | Valid Sudoku | Medium | [Link](https://leetcode.com/problems/valid-sudoku/) | [Code](./04-matrix/01-valid-sudoku/) | [Explanation](./04-matrix/01-valid-sudoku/README.md) | Validate a 9x9 Sudoku board's rows, columns, and boxes. |
+| ✅ | Spiral Matrix | Medium | [Link](https://leetcode.com/problems/spiral-matrix/) | [Code](./04-matrix/02-spiral-matrix/) | [Explanation](./04-matrix/02-spiral-matrix/README.md) | Return all matrix elements in spiral order. |
+| ✅ | Rotate Image | Medium | [Link](https://leetcode.com/problems/rotate-image/) | [Code](./04-matrix/03-rotate-image/) | [Explanation](./04-matrix/03-rotate-image/README.md) | Rotate an n x n matrix 90 degrees in place. |
+| ✅ | Set Matrix Zeroes | Medium | [Link](https://leetcode.com/problems/set-matrix-zeroes/) | [Code](./04-matrix/04-set-matrix-zeroes/) | [Explanation](./04-matrix/04-set-matrix-zeroes/README.md) | Zero out entire rows/columns for any zero found, in place. |
+| ✅ | Game of Life | Medium | [Link](https://leetcode.com/problems/game-of-life/) | [Code](./04-matrix/05-game-of-life/) | [Explanation](./04-matrix/05-game-of-life/README.md) | Simulate one step of Conway's Game of Life in place. |
 
 ## Hashmap
 
 | Status | Problem | Difficulty | LeetCode | Solution Folder | Explanation | Description |
 |---|---|---|---|---|---|---|
-| ⏳ | Ransom Note | Easy | [Link](https://leetcode.com/problems/ransom-note/) | — | — | Check if a ransom note can be built from letters in a magazine. |
-| ⏳ | Isomorphic Strings | Easy | [Link](https://leetcode.com/problems/isomorphic-strings/) | — | — | Check if two strings follow the same character mapping pattern. |
-| ⏳ | Word Pattern | Easy | [Link](https://leetcode.com/problems/word-pattern/) | — | — | Check if a string follows the same pattern as a given pattern string. |
-| ⏳ | Valid Anagram | Easy | [Link](https://leetcode.com/problems/valid-anagram/) | — | — | Check if two strings are anagrams of each other. |
-| ⏳ | Group Anagrams | Medium | [Link](https://leetcode.com/problems/group-anagrams/) | — | — | Group an array of strings into sets of anagrams. |
-| ⏳ | Two Sum | Easy | [Link](https://leetcode.com/problems/two-sum/) | — | — | Find two indices whose values sum to a target, using a hash map. |
-| ⏳ | Happy Number | Easy | [Link](https://leetcode.com/problems/happy-number/) | — | — | Determine if repeated digit-square-sum eventually reaches 1. |
-| ⏳ | Contains Duplicate II | Easy | [Link](https://leetcode.com/problems/contains-duplicate-ii/) | — | — | Check for a duplicate value within a given index distance k. |
-| ⏳ | Longest Consecutive Sequence | Medium | [Link](https://leetcode.com/problems/longest-consecutive-sequence/) | — | — | Find the longest run of consecutive integers in O(n). |
+| ✅ | Ransom Note | Easy | [Link](https://leetcode.com/problems/ransom-note/) | [Code](./05-hashmap/01-ransom-note/) | [Explanation](./05-hashmap/01-ransom-note/README.md) | Check if a ransom note can be built from letters in a magazine. |
+| ✅ | Isomorphic Strings | Easy | [Link](https://leetcode.com/problems/isomorphic-strings/) | [Code](./05-hashmap/02-isomorphic-strings/) | [Explanation](./05-hashmap/02-isomorphic-strings/README.md) | Check if two strings follow the same character mapping pattern. |
+| ✅ | Word Pattern | Easy | [Link](https://leetcode.com/problems/word-pattern/) | [Code](./05-hashmap/03-word-pattern/) | [Explanation](./05-hashmap/03-word-pattern/README.md) | Check if a string follows the same pattern as a given pattern string. |
+| ✅ | Valid Anagram | Easy | [Link](https://leetcode.com/problems/valid-anagram/) | [Code](./05-hashmap/04-valid-anagram/) | [Explanation](./05-hashmap/04-valid-anagram/README.md) | Check if two strings are anagrams of each other. |
+| ✅ | Group Anagrams | Medium | [Link](https://leetcode.com/problems/group-anagrams/) | [Code](./05-hashmap/05-group-anagrams/) | [Explanation](./05-hashmap/05-group-anagrams/README.md) | Group an array of strings into sets of anagrams. |
+| ✅ | Two Sum | Easy | [Link](https://leetcode.com/problems/two-sum/) | [Code](./05-hashmap/06-two-sum/) | [Explanation](./05-hashmap/06-two-sum/README.md) | Find two indices whose values sum to a target, using a hash map. |
+| ✅ | Happy Number | Easy | [Link](https://leetcode.com/problems/happy-number/) | [Code](./05-hashmap/07-happy-number/) | [Explanation](./05-hashmap/07-happy-number/README.md) | Determine if repeated digit-square-sum eventually reaches 1. |
+| ✅ | Contains Duplicate II | Easy | [Link](https://leetcode.com/problems/contains-duplicate-ii/) | [Code](./05-hashmap/08-contains-duplicate-ii/) | [Explanation](./05-hashmap/08-contains-duplicate-ii/README.md) | Check for a duplicate value within a given index distance k. |
+| ✅ | Longest Consecutive Sequence | Medium | [Link](https://leetcode.com/problems/longest-consecutive-sequence/) | [Code](./05-hashmap/09-longest-consecutive-sequence/) | [Explanation](./05-hashmap/09-longest-consecutive-sequence/README.md) | Find the longest run of consecutive integers in O(n). |
 
 ## Intervals
 
