@@ -20,7 +20,9 @@ that string.
 4. Return the final `prefix`.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 
 ## Line-by-Line Explanation
 - The inner `while` loop only ever shortens `prefix`, so it terminates in at most

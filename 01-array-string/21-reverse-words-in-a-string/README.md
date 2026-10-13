@@ -17,7 +17,9 @@ spaces), reverse the resulting list of words, then rejoin with single spaces.
 3. Join with single spaces.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 (C++ uses `istringstream` to tokenize; Java uses a regex split on `\s+` after
 trimming.)
 

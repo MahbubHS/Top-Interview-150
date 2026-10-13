@@ -19,7 +19,9 @@ largest such `i+1` is the H-Index.
 4. Return `h`.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 (Java sorts ascending and iterates from the back since `Arrays.sort` has no built-in
 descending primitive sort.)
 

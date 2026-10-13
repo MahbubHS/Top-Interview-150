@@ -20,7 +20,9 @@ another jump, so we commit to `farthest` as the new boundary.
 4. Return `jumps`.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 
 ## Line-by-Line Explanation
 - We stop the loop at `n-2` (not `n-1`) since once we can reach the last index we don't

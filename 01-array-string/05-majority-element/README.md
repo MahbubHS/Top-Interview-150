@@ -20,7 +20,9 @@ candidate.
 4. Return `candidate` at the end.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 
 ## Line-by-Line Explanation
 - `count == 0` triggers a "reset" — we adopt a fresh candidate whenever the running

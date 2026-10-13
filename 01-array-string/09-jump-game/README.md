@@ -18,7 +18,9 @@ an index beyond that frontier before updating it, we're stuck.
 4. If the loop completes, return True.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 
 ## Line-by-Line Explanation
 - `i > reach` is the failure condition: we walked past the farthest point any earlier

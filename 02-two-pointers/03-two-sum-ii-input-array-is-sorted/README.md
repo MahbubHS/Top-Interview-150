@@ -19,7 +19,9 @@ too large, move the right pointer left.
 4. If `sum < target`, `l += 1`; else `r -= 1`.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 
 ## Line-by-Line Explanation
 - Sortedness is what guarantees the greedy pointer move is always correct: increasing

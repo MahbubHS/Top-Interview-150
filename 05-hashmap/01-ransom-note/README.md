@@ -19,7 +19,9 @@ impossible.
 4. If the scan completes, return True.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 
 ## Line-by-Line Explanation
 - Decrementing directly in the magazine's frequency map (rather than building a

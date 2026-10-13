@@ -18,7 +18,9 @@ value, it's a subtractive pair — subtract it. Otherwise add it normally.
 4. Return the running total.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 
 ## Line-by-Line Explanation
 - The lookahead comparison handles all six subtractive cases (`IV, IX, XL, XC, CD, CM`)

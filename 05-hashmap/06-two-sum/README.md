@@ -20,7 +20,9 @@ our pair in a single pass.
 5. Return `[]` if nothing found (won't happen per constraints).
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 
 ## Line-by-Line Explanation
 - Checking for `need` *before* inserting the current number prevents matching a value

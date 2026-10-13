@@ -21,7 +21,9 @@ single row or column doesn't get double-counted.
 5. If `left <= right` still: traverse left column (reversed) → `left++`.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 
 ## Line-by-Line Explanation
 - The guards before steps 4 and 5 are essential: without them, a matrix that's been

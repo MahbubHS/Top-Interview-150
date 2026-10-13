@@ -23,7 +23,9 @@ the failure point.
 4. If `total >= 0`, `start` is the answer; otherwise -1.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 
 ## Line-by-Line Explanation
 - `total < 0` at the end means there simply isn't enough gas overall — impossible.

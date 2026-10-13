@@ -18,7 +18,9 @@ simple and sufficient for typical constraints (KMP would improve to O(n+m) if ne
 3. If no match found, return -1.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 
 ## Line-by-Line Explanation
 - The loop bound `i + m <= n` ensures we never slice past the end of `haystack`.

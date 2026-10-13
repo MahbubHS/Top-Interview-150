@@ -20,7 +20,9 @@ lowercase versions of the letters we land on.
 5. If the loop completes, return True.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 
 ## Line-by-Line Explanation
 - The two inner `while` loops are what let us ignore punctuation/spaces without

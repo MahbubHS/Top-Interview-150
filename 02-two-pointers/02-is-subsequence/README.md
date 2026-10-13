@@ -18,7 +18,9 @@ pointer reaches the end of `s`, every character was matched in order.
 3. Return whether `i == len(s)`.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 
 ## Line-by-Line Explanation
 - We only ever advance `i`, never look back — greedily matching the earliest possible

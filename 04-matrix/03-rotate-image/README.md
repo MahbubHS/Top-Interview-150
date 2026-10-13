@@ -18,7 +18,9 @@ equivalent to first transposing the matrix (flip across the main diagonal, swapp
 2. Reverse every row in place.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 
 ## Line-by-Line Explanation
 - The transpose loop uses `j starting at i+1` (not 0) specifically to avoid swapping

@@ -22,7 +22,9 @@ avoid duplicate triplets.
    duplicates on both sides before continuing).
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 
 ## Line-by-Line Explanation
 - `if i>0 and nums[i]==nums[i-1]: continue` avoids re-processing the same "anchor"

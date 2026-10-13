@@ -21,7 +21,9 @@ element, then pop the back.
 - `getRandom`: pick a uniformly random index into the array.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 
 ## Line-by-Line Explanation
 - `idx` maps value → position, so removal never needs a linear scan.

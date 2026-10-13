@@ -25,7 +25,9 @@ possible while staying valid, recording the best (smallest) window found.
 4. Return the best window found, or `""` if none.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 
 ## Line-by-Line Explanation
 - `need[c] > 0` before decrementing is what correctly counts only characters that were

@@ -20,7 +20,9 @@ of shrinking one character at a time.
 4. Update `best = max(best, r - l + 1)`.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 
 ## Line-by-Line Explanation
 - The `>= l` check is essential: a character seen *before* the current window started

@@ -29,7 +29,9 @@ Greedy line-packing plus careful space distribution:
 4. Advance `idx = last` and repeat.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 
 ## Line-by-Line Explanation
 - The inner `while` computing `last` uses `total + word.length + (last-idx)` — the

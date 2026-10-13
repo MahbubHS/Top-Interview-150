@@ -18,7 +18,9 @@ into consecutive daily buy/sell pairs with the same total gain.
 3. Return profit.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 
 ## Line-by-Line Explanation
 - The loop only ever *adds* positive differences — down moves contribute nothing,

@@ -17,7 +17,9 @@ until the next space (or start of string).
 3. Return the count.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 (Python's `str.split()` conveniently discards empty tokens from extra whitespace,
 giving a one-line solution.)
 

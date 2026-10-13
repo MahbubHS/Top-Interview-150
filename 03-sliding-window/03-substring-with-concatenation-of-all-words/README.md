@@ -28,7 +28,9 @@ shrink from the left whenever a word is over-used or an unrecognized word appear
      start, then shrink by one word to keep sliding.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 
 ## Line-by-Line Explanation
 - Running the scan separately for each of the `wordLen` possible alignments

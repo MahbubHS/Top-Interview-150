@@ -19,7 +19,9 @@ element, if it was seen before within the last `k` indices, we're done.
 4. Return False if the loop completes.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 
 ## Line-by-Line Explanation
 - Always storing the **most recent** index (overwriting on every occurrence) is what

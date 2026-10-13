@@ -22,7 +22,9 @@ the bigger one at the end. This never overwrites data we still need.
    because the loop condition only checks `j`.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 
 ## Line-by-Line Explanation
 - `i, j, k`: pointers to the last valid element of `nums1`, `nums2`, and the last index

@@ -21,7 +21,9 @@ since it's `>=` the smaller side by construction).
 4. Else: update `rightMax`, add `rightMax - height[r]` to water, retreat `r`.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 
 ## Line-by-Line Explanation
 - Choosing to process the side with the smaller height guarantees the *other* side's

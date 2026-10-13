@@ -20,7 +20,9 @@ reaching 1, we're in a cycle and it will never reach 1.
 3. Return whether `n == 1`.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 
 ## Line-by-Line Explanation
 - `next_val` extracts digits one at a time via `% 10` and `// 10`, squaring and

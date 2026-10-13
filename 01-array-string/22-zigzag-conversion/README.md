@@ -20,7 +20,9 @@ back and forth. Append each character to its current row's buffer as we go.
 4. Concatenate all rows in order.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 
 ## Line-by-Line Explanation
 - The bounce logic (`step` flips at the top and bottom rows) is exactly what produces

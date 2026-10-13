@@ -22,7 +22,9 @@ neighbor, compare with right neighbor), so satisfy them one at a time and take t
 4. Sum and return.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 
 ## Line-by-Line Explanation
 - The `max` in the second pass is essential: it preserves any larger value already

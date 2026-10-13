@@ -26,7 +26,9 @@ correctly still counts it as "live" for the purposes of the *original* board.
 3. Second pass: convert `2 → 0` and `3 → 1` to get the final board.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 
 ## Line-by-Line Explanation
 - Checking neighbor value `1 or 2` (not just `1`) during the first pass is the key

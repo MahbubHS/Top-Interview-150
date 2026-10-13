@@ -19,7 +19,9 @@ Strings: a `pattern-char -> word` map and a `word -> pattern-char` map, both mus
 3. Return True if the scan completes.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 
 ## Line-by-Line Explanation
 - Splitting first and comparing lengths up front cheaply rejects patterns/strings

@@ -19,7 +19,9 @@ whole array puts the last `k` elements first but in reverse order; reversing the
 4. Reverse the remaining `n - k` elements.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 
 ## Line-by-Line Explanation
 - `k %= n`: rotating by a multiple of `n` is a no-op, so this normalizes `k`.

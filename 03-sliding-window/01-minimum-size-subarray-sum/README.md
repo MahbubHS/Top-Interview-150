@@ -21,7 +21,9 @@ the smallest length seen.
 4. Return `best` (or 0 if never updated).
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 
 ## Line-by-Line Explanation
 - Because all numbers are positive, `total` only decreases as we shrink from the left

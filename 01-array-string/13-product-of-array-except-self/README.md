@@ -19,7 +19,9 @@ Compute prefix products in one pass, then multiply in suffix products in a secon
 3. Return `res`.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 
 ## Line-by-Line Explanation
 - After pass 1, `res[i]` holds the product of all elements strictly to the left of `i`.

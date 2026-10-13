@@ -19,7 +19,9 @@ exactly that.
 3. Return `k`.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 
 ## Line-by-Line Explanation
 - `k < 2`: always allow the first two elements through unconditionally.

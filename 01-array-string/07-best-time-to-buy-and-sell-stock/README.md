@@ -18,7 +18,9 @@ possible profit if selling *today* is `price - min_so_far`. Keep the running max
 4. Return `max_profit`.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 
 ## Line-by-Line Explanation
 - `min_price` always represents the cheapest buy opportunity available up to the

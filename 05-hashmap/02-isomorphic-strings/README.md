@@ -21,7 +21,9 @@ character (which would break the "one-to-one" requirement).
 4. Return True if the scan completes.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 
 ## Line-by-Line Explanation
 - The single-direction map alone (`s -> t`) would incorrectly accept cases like

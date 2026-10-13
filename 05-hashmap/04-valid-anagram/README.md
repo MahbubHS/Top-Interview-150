@@ -18,7 +18,9 @@ anagram. Python's `Counter` equality check does this concisely.
 4. Return True if the scan completes.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 (Python leverages `Counter` equality for brevity; C++/Java use the explicit
 build-then-decrement pattern for clarity and consistent O(n) behavior.)
 

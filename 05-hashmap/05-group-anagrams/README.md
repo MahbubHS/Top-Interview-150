@@ -17,7 +17,9 @@ map key, and bucket each original word into the group for its key.
 3. Return all the map's values as the list of groups.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 
 ## Line-by-Line Explanation
 - `tuple(sorted(word))` / sorting the char array is what canonicalizes anagrams to an

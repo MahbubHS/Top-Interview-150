@@ -21,7 +21,9 @@ box-set — the box index is computed from `(r/3)*3 + c/3`.
 5. If the full scan completes, return True.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 
 ## Line-by-Line Explanation
 - `(r // 3) * 3 + c // 3` maps any `(r,c)` to a box index 0-8 by first finding which

@@ -21,7 +21,9 @@ arrays. Before overwriting them, separately remember whether the first row/colum
 4. Finally, zero the first row/column themselves if they originally had a zero.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 
 ## Line-by-Line Explanation
 - Doing the first-row/first-column check *before* the marking phase is critical —

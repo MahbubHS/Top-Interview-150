@@ -18,7 +18,9 @@ the last unique value written, and a fast pointer `i` scanning forward.
 4. Return `k`.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 
 ## Line-by-Line Explanation
 - `k = 1`: the first element is trivially unique, so it's already "kept" at index 0.

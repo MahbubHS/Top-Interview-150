@@ -21,7 +21,9 @@ start), giving an overall O(n) instead of O(n²).
 3. Track the maximum length found.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 
 ## Line-by-Line Explanation
 - The `if num - 1 not in num_set` guard is what keeps the algorithm linear overall:

@@ -17,7 +17,9 @@ the current value is not `val`, copy it to the write pointer `k` and advance `k`
 3. Return `k`.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 
 ## Line-by-Line Explanation
 - `k`: tracks how many "keep" elements have been written so far — becomes the answer.

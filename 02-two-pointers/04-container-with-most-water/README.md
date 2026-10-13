@@ -20,7 +20,9 @@ inward can only shrink the width without any chance of increasing the limiting h
 4. Return `best`.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 
 ## Line-by-Line Explanation
 - `min(height[l], height[r])` is the water level, capped by the shorter wall.

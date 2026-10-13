@@ -17,7 +17,9 @@ the largest value that still fits and append its symbol.
 3. Return the concatenated result.
 
 ## Code
-See `Solution.py`, `Solution.cpp`, `Solution.java`.
+- [Solution.py](./Solution.py)
+- [Solution.cpp](./Solution.cpp)
+- [Solution.java](./Solution.java)
 
 ## Line-by-Line Explanation
 - Including `CM/CD/XC/XL/IX/IV` as first-class entries avoids any special-casing —
