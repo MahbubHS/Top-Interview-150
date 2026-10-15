@@ -1,7 +1,5 @@
 # Top Interview 150 — Solutions & Explanations
 
-Progress: **150 / 150** problems complete.
-
 Source list: https://leetcode.com/studyplan/top-interview-150/
 
 Each completed problem has its own folder containing `Solution.py`, `Solution.cpp`, `Solution.java`, and a `README.md` walking through the problem, approach, algorithm, a dry run, complexity, and edge cases.
